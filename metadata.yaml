@@ -1,4 +1,8 @@
 _repo: Military-Reminiscences-of-the-Civil-War-Volume-2-November-1863-June-1865_6962
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cox, Jacob D. (Jacob Dolson)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2277
     wikipedia: http://en.wikipedia.org/wiki/Jacob_Dolson_Cox
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6962#Military-Reminiscences-of-the-Civil-War-Volume-2-November-1863-June-1865
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
